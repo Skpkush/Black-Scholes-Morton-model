@@ -12,7 +12,6 @@ This project is a Streamlit web application for calculating option prices using 
 - **American Option Pricing**: Uses a binomial tree approach to calculate American option prices for both call and put options.
 - **Interactive Input Fields**: Allows users to input key parameters like underlying price, strike price, volatility, risk-free rate, and time to expiration.
 - **Detailed Explanation**: Displays the Black-Scholes formula and explains each variable for better understanding.
-- **Enhanced UI/UX**: Includes a colorful and animated interface with a rainbow divider and visually appealing elements.
 
 ---
 
