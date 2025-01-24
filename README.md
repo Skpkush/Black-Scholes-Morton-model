@@ -1,4 +1,3 @@
-# Black-Shoes-Morton-model-
 
 # Black-Scholes Model Option Pricing Calculator
 
